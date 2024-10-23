@@ -1,0 +1,7 @@
+express
+pg
+socket.io
+cors
+bcrypt
+jsonwebtoken
+dotenv
